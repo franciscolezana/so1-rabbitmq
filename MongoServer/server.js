@@ -2,7 +2,7 @@ const express = require('express');
 const app = new express();
 
 const MongoClient = require("mongodb").MongoClient;
-const DB_URI = 'mongodb+srv://root:1234@cluster0.jonfs.mongodb.net/test?authSource=admin&replicaSet=atlas-5z7n9i-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true';
+const DB_URI = 'mongodb+srv://sopes1:sopes1@cluster0.ccxdv.mongodb.net/test?authSource=admin&replicaSet=atlas-14lgiv-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true';
 
 
 var db;
